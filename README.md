@@ -7,3 +7,5 @@
 
 P.S Commands are only gonna work on the server, which ID you put in your .env file
 
+
+NO AI USED TO WRITE CODE!!!
