@@ -6,7 +6,7 @@
 4. Start your bot with Node.js(or you can host somewhere)
 
 
-For better explanation
+Youtube Video Guide:
 //link to youtube video
 
 
