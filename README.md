@@ -5,7 +5,18 @@
 3. Then add .env file with SERVER_ID, CLIENT_ID and BOT_TOKEN
 4. Start your bot with Node.js(or you can host somewhere)
 
+
+For better explanation
+<link to youtube video>
+
+
+
+
+
 P.S Commands are only gonna work on the server, which ID you put in your .env file
+
+
+
 
 
 NO AI USED TO WRITE CODE!!!
